@@ -1,6 +1,4 @@
 ## Hey there 👋
-
-- I am Gabi, Brazilian and Italian, and I love pizza! 🍕
 - Developer Relations for almost 3 years @ Elastic 🥑
 - Data Science & AI Bootcamp 📊
 - Soon to be a data wizardess! 🤓
