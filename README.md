@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there 👋
+
+- I am Gabi, Brazilian and Italian, and I love pizza! 🍕
+- Developer Relations for almost 3 years @ Elastic 🥑
+- Data Science & AI Bootcamp 📊
+- Soon to be a data wizardess! 🤓
 
 <!--
 **gabi-f-amaral/gabi-f-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
