@@ -1,5 +1,5 @@
 ## Hey there 👋
-- Developer Relations for almost 3 years @ Elastic 🥑
+- Developer Relations @ Elastic 🥑
 - Data Science & AI Bootcamp 📊
 - Soon to be a data wizardess! 🤓
 
