@@ -1,5 +1,5 @@
 ## Hey there 👋
-- Developer Relations @ Elastic 🥑
+- Data Science & Analytics - Program Management
 - Data Science & AI Bootcamp 📊
 - Soon to be a data wizardess! 🤓
 
