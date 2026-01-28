@@ -2,7 +2,7 @@
 - Data Science & Analytics - Program Management
 - Data Science & AI Bootcamp 📊
 - Soon to be a data wizardess! 🤓
-- Feel free to connect here or on my [LinkedIn](https://www.linkedin.com/in/amaralg/)
+- Feel free to connect here or via [LinkedIn](https://www.linkedin.com/in/amaralg/)
 
 <!--
 **gabi-f-amaral/gabi-f-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
